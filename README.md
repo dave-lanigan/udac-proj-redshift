@@ -35,7 +35,6 @@ After editing the configuration file to with the required information. To create
 
 ### Files in the repository:
 
-* dwh.cfg
 * create_table.py
 * etl.py
 * sql_queries.py
